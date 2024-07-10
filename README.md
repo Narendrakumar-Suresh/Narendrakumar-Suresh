@@ -13,7 +13,8 @@ Welcome to my GitHub profile! I'm a passionate front-end developer, Taekwondo at
 
 - **Languages:**
   
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
 - **Frameworks/Libraries:**
   
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
