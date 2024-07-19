@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Narendrekumar S!
+# Hi there 👋, I'm Narendrakumar S!
 
 Welcome to my GitHub profile! I'm a passionate front-end developer, Taekwondo athlete, and machine learning enthusiast. I enjoy creating and sharing content on various tech topics. Here, you'll find a variety of projects ranging from web development to deep learning experiments.
 
